@@ -1,4 +1,5 @@
 // Calcular la suma de los números del 1 al 20.
+// MODIFICO EL FICHERO DESDE GIT PARA LUEGO HACER PULL DESDE NETBEANS
 package examentrimestre1;
 
 public class Ejercicio1 {
